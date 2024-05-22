@@ -1,0 +1,7 @@
+{
+  "name": "pointCliente",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
